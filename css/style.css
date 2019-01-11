@@ -7,7 +7,7 @@ h3 {
   margin: 0 0 10px;
 }
 
-p { 
+p {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -111,7 +111,7 @@ img, video, audio, iframe, table, form {
 }
 
 /* LIGHT-FADE */
- 
+
 background: #efefef; /* Old browsers */
 background: -moz-linear-gradient(
   top,
@@ -159,7 +159,7 @@ background: linear-gradient(
 ); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endColorstr="#dddddd", GradientType=0); /* IE6-9 */
 /* MEDIUM-FADE */
- 
+
 background: rgb(229, 229, 229); /* Old browsers */
 background: -moz-linear-gradient(
   top,
@@ -194,7 +194,7 @@ background: linear-gradient(
   rgba(255, 255, 255, 1) 99%
 ); /* W3C */
 /* NAVBAR-HOVER */
- 
+
 background: rgb(0, 0, 0); /* Old browsers */
 background: -moz-linear-gradient(
   top,
@@ -300,5 +300,3 @@ section {
 }
 
 /*////////// FOOTER //////////*/
-
-
